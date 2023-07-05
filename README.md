@@ -1,6 +1,6 @@
 # Susanne-Brown
 <h1 align="center">Hi 👋, welcome to my GitHub!</h1>
-<h3 align="center">Strategist & Data Analyst | I Help Companies Leverage Data To Drive Growth & Identify Solutions</h3>
+<h3 align="center" font face = "WildWest" >Strategist & Data Analyst | I Help Companies Leverage Data To Drive Growth & Identify Solutions</h3>
 <body>
       <align="center" font face = "WildWest" size = "5">I am a results-driven strategist with a proven track record of creating and executing high-impact strategies to drive business growth and maximize ROI. With a unique blend of analytical, creative, and leadership skills, I thrive in complex, dynamic environments where I can develop and implement innovative solutions that achieve organizational objectives.</font><br />
 <h3 align="left">Connect with me:</h3>
