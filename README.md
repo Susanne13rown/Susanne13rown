@@ -2,6 +2,12 @@
 
 ###
 
+
+<img align="right" height="150" src="https://gifdb.com/images/high/penguins-of-madagascar-waving-hello-pb0tkzpn2x5dz3ho.gif"  />
+
+
+###
+
 <p align="left">My name is Susanne. Thanks for stopping by my GitHub!</p>
 
 ###
@@ -21,11 +27,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
-###
-
-
-<img align="right" height="150" src="https://gifdb.com/images/high/penguins-of-madagascar-waving-hello-pb0tkzpn2x5dz3ho.gif"  />
 
 
 ###
