@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">I am a results-driven strategist with a proven track record of creating and executing high-impact strategies to drive business growth and maximize ROI. With a unique blend of analytical, creative, and leadership skills, I thrive in complex, dynamic environments where I can develop and implement innovative solutions that achieve organizational objectives.</p>
+<p align="left">I am a results-driven strategist with a proven track record of creating and executing high-impact strategies to drive business growth and maximize ROI. With a unique blend of analytical, creative, and leadership skills, I thrive in complex, dynamic environments where I can develop and implement innovative solutions that achieve organizational objectives.</p>
 
 ###
 
