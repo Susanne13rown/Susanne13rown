@@ -15,6 +15,7 @@
 - [x] SQL
 -<i> ✍ You can find my SQL projects [here](https://github.com/Susanne13rown/SQL) </i>
 - [x] Microsoft Excel
+- [x] SalesForce & Einstein Analytics
 - [x] Tableau
 - [x] PowerPoint
 
